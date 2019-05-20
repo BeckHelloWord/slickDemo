@@ -1,2 +1,0 @@
-# slickDemo
-Created with CodeSandbox
